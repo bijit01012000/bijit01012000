@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **NextJS and TypeScript**
 
-- 👨‍💻 All of my projects are available at [portfolio.io](portfolio.io)
+- 👨‍💻 All of my projects are available at [portfolio.io](https://next-js-portfolio-sigma-woad.vercel.app/)
 
 - 💬 Ask me about **frontend task**
 
 - 📫 How to reach me **bijit01012000@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences [resume link](https://docs.google.com/document/d/18Cb_f-gNdr6pRgDUoHheTfFmwkyIaplYwd-jPK8Mkmk/edit?tab=t.0)
 
 - ⚡ Fun fact **I once designed a full website layout in just two hours during a hackathon! When I'm not coding, you can find me exploring new restaurants.**
 
